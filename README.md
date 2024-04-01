@@ -1,2 +1,2 @@
 # numberGuessingGame
- CLI based number guesing gam . 
+ CLI based number guesing game. 
